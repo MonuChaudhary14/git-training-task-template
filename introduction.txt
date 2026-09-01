@@ -1,5 +1,3 @@
 Hello Sir/Ma'am,
-MY name is Tushar Talan.
-My branch is ECE.
-I am a Developer.
+My techincal skill include Knowledge of Java , HTML ,CSS , Javascript.
 My hobbies are to paly Cricket and Volleyball
