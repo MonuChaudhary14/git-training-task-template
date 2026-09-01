@@ -1,1 +1,12 @@
 Hello Everyone, My name is Shabd Rastogi I am from Sambhal, Uttar Pradesh. My branch is Computer Science and Engineering. 
+
+Skills:
+ Python
+ Machine Learning 
+ HTML
+ CSS
+ SQL
+
+Hobbies:
+ Video Editing
+ Playing Table Tennis
