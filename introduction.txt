@@ -1,1 +1,1 @@
-
+Hi, I’m Aniket Tiwari, a B.Tech student at AKGEC, Ghaziabad, passionate about software development and entrepreneurship. I mainly work with Flutter, Dart, Firebase, and web technologies, and I enjoy building practical applications and learning new technologies.
