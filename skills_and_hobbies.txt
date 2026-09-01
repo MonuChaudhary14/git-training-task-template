@@ -1,0 +1,14 @@
+Skills:
+- C
+- C++
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+Hobbies:
+- Coding
+- Watching movies
+- Playing games
+- Exploring new technologies
