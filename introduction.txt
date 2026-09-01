@@ -1,2 +1,4 @@
 Hello everyone, 
 my name is Aayush Singh Chauhan. i am from Aligarh. i am currently pursuing btech in cs from ajay kumar garg engg college. my domain is developer.
+my tech skills are html, css, tailwind css, js, react. 
+And my hobbies are playing chess, video games and listening music.
