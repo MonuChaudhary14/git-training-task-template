@@ -2,3 +2,5 @@ Hello Sir/Ma'am
 
 My name is krishn sharma, im a second year student and a trainee at software incubator.
 
+My skills are Python, C++ and SQL.
+My hobbies are Chess, Badminton, Piano.
