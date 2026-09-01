@@ -1,1 +1,1 @@
-
+Hello, my name is Abhinav Pal, a B.Tech student at AKGEC, Ghaziabad, passionate about software development and entrepreneurship. I specialise in Native Android Development, and I have also tried my hands in Cross Platform technologies like Flutter. I enjoy building practical applications and learning new technologies.
