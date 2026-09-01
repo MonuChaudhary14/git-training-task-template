@@ -2,4 +2,5 @@ Hello Sir/Mam,
 My name is Manasvi Kapoor.
 I am 2nd year CSE student.
 I am Developer.
-My hobbies are painting and reading books.
+My hobbies are painting and reading books(fiction).
+Skills: HTML, CSS(Tailwind CSS and Bootstrap), JS, React.
